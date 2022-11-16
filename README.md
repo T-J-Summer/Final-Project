@@ -3,10 +3,10 @@ This Is My final project, for the Uni 12 week Bootcamp.
 
 ## Table of contents
 - [Introduction](#Introduction)
-- [Finding the best dataset](##Finding the best dataset)
-- [Data cleaning and planning](##Data cleaning and planning)
-- [Data visualization](##Data visualization)
-- [Data Exploration](##Data Exploration)
+- [Finding the best dataset](#Finding the best dataset)
+- [Data cleaning and planning](#Data cleaning and planning)
+- [Data visualization](#Data visualization)
+- [Data Exploration](#Data Exploration)
 - [Review](#Review)
 - [Conclusion](#Conclusion)
 
