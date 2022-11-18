@@ -41,7 +41,29 @@ The schema of the first data set I have used is screenshot below:
 
 	
 ## Data cleaning and planning	
-#### What are the current issues with my data and how do i plan to solve them?	
+#### What are some issues with my data and how do i plan to solve them?	
+
+The first dataset, I have from Google BigQuery has a few issues due to excess fields that I do not need for my project. 
+I took a screenshot from the bottom of my table and highlighted some of the fields that i do not need that also are affecting my data visulisation. For example, the field ‘Low & middle income’will affect visulisation because it will have a much higher value count then an individual country because it is a group.
+
+![Screenshot]()
+I plan to fix this problem by dropping the unnecessary fields and consequently making the data easter to read and produce graphs from. In order to do this, I followed a few steps. 
+Firstly I uploaded the dataset to DeepNote in order to apply data cleaning techniques, to do this i used the code 
+```
+cou_edu = pd.read_csv('Total_pop_edu.csv')
+cou_edu
+What this has done, is take the data out of the CSV file and convert it into a table within the deepnote. Making the new name name for this dataset: cou_edu
+```
+once i had the data uploaded i entered code to find all of the different names within the dataset, this is done using the command word Unique. In order to use this command i had to see what the column header names to tell the deepnote what column to find the unique values in. 
+```
+cou_edu.head(1)
+```
+The line of code above allows me to see all of the collum headers with only 1 data result, with this information i am able to run the unique formula to establish what country names are in this dataset
+```
+cou_edu['country_name'].unique()
+``` 
+I can then take this and see the list of all the different countries that there are values for, this will enable me to see whether the list only consists of countries and not collectives like highlighted in the image above.
+
 #### What tables do i need to join in order to prove my hypothesis?	
 ## Data visualization	
 #### What different charts and graphs will i be using?	
