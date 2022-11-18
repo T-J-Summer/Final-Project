@@ -24,7 +24,8 @@ The schema of the first data set I have used is screenshot below:
 ![education_schema](Education_schema.png)
 
 
-#### Why have i chose this data?	
+#### Why have I chosen this data?
+	
 ## Data cleaning and planning	
 #### What are the current issues with my data and how do i plan to solve them?	
 #### What tables do i need to join in order to prove my hypothesis?	
