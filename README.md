@@ -26,20 +26,6 @@ This project has a set of requirements. I have listed them below and will review
 - Use some statistical or machine learning analysis, e.g., Linear regression Clustering or Classification
 - Comment code blocks to explain their purpose
 - Present the project using [slides.com](https://slides.com/)
-- Use a dataset of a minimum of 1000 records.
-- Provide evidence of data validity (explain the source of the data)
-- Utilizing a minimum of 3 data technologies, e.g., plotly, GitHub, Google Docs
-- Make Pull Requests and request code some reviews from my teacher
-- Use data visualization: a minimum of 5 different types of data visualization from a minimum of 2 libraries, e.g., Plotly, Seaborn, Matplotlib, Google Sheets
-- Document the project in a Readme
-- Use statistical and machine learning analysis, e.g.:
-Linear regression
-Clustering
-Classification
-- Hypothesis testing
-- Comment code blocks to explain their purpose
-- Present the project using slides.com
-
 ## Finding the best dataset		
 
 I have decided to get my data from [BigQuery public datasets](https://cloud.google.com/bigquery/public-data?_ga=2.180085732.-1903192553.1663671110) because I wanted to test a hypothesis that I initially formulated: 
