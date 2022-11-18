@@ -15,7 +15,17 @@ This Is My final project, for the Uni 12 week Bootcamp.
 
 #### What are the project requirements?
 
-This project has a set of requirements I have listed them below and will review them at the end of the project in order to show how I have completed them:
+This project has a set of requirements. I have listed them below and will review them at the end of the project to show how I have completed them:
+
+- Use a dataset of a minimum of 1000 records.
+- Provide evidence of data validity (explain the source of the data)
+- Utilizing a minimum of 3 data technologies, e.g., [Plotly](https://plotly.com/python/), [GitHub](https://docs.github.com/en), [Google Docs](https://support.google.com/docs/topic/9046002?hl=en-GB&ref_topic=1382883)
+- Make Pull Requests reviewed by other team members
+- Use data visualization: a minimum of 5 different types of data visualization from a minimum of 2 libraries, e.g., [Plotly](https://plotly.com/python/), [Matplotlib](https://matplotlib.org/stable/index.html)
+- Document the project with a Readme
+- Use some statistical or machine learning analysis, e.g., Linear regression Clustering or Classification
+- Comment code blocks to explain their purpose
+- Present the project using [slides.com](https://slides.com/)
 - Use a dataset of a minimum of 1000 records.
 - Provide evidence of data validity (explain the source of the data)
 - Utilizing a minimum of 3 data technologies, e.g., plotly, GitHub, Google Docs
