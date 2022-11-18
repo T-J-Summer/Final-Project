@@ -21,7 +21,7 @@ I have chosen to look at the World Bank international education dataset via BigQ
 
 
 The schema of the first data set I have used is screenshot below:
-![education_schema](Education_schema.png)
+![education_schema](Education_scema.png)
 
 
 #### Why have I chosen this data?
