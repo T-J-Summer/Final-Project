@@ -21,7 +21,7 @@ Because of this i am choosing to look at the international data from BigQuery, i
 
 
 internatinal_education - this dataset shows the education statistics for diffrent countries across the years. 
-
+![education_schema](Education_schema.png)
 
 The second dataset that i am going to look at is from the world bank, i chose to source information from here because it is a reperitable source and can be trusted. This dataset will enable me to see which countries are classed as high, middle or low income countries this then will enable me to match this data with the education datasets and establish whether there is a correlation between a countries income and their education population. 
 
