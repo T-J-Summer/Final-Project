@@ -23,7 +23,6 @@ I have chosen to look at the World Bank international education dataset via BigQ
 The schema of the first data set I have used is screenshot below:
 ![education_schema](Education_schema.png)
 
-The second dataset that i am going to look at is from the world bank, i chose to source information from here because it is a reperitable source and can be trusted. This dataset will enable me to see which countries are classed as high, middle or low income countries this then will enable me to match this data with the education datasets and establish whether there is a correlation between a countries income and their education population. 
 
 #### Why have i chose this data?	
 ## Data cleaning and planning	
