@@ -17,7 +17,7 @@ This Is My final project, for the Uni 12 week Bootcamp.
 ## Finding the best dataset	
 #### What dataset am I looking at in order to find this?	
 I have decided to get my data from BigQuery public datasets because I wanted to test a hypothesis that I initially formulated: "the quality of education positively affects the economic and social success of a country." I have chosen to use SQL language to obtain and filter my data initial dataset as it would make my subsequent data exploration in Pandas faster. Moreover, BigQuery's SQL engine is powerful, which could also reduce the time I would spend exploring the initial data.
-Because of this i am choosing to look at the international data from BigQuery, i am going to use ‘internatinal_education’ because it has all the statistics regarding student population in each country, this dataset has all countries and the population of different school sectors (e.g. Secondary, Primary…). 
+I have chosen to look at the World Bank international education dataset via BigQuery. The dataset has the necessary statistics, e.g., the student population in each country, and covers all the countries in 2022 and the different school sectors, e.g., Secondary, Primary, and so on.
 
 
 internatinal_education - this dataset shows the education statistics for diffrent countries across the years. 
