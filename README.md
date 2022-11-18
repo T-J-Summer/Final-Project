@@ -16,7 +16,7 @@ This Is My final project, for the Uni 12 week Bootcamp.
 #### What do i plan to investigate?	
 ## Finding the best dataset	
 #### What dataset am I looking at in order to find this?	
-I have decided to get my data from Big Query public datasets because I wanted to explore global data in order to explore my question and answer wether my hypothesis is correct. I also wanted to use Google BgQuery for this data because I have been using it for the past 9 weeks and have found that it is extremely up to date with some data being recorded from 2-3 days ago.
+I have decided to get my data from BigQuery public datasets because I wanted to test a hypothesis that I initially formulated: "the quality of education positively affects the economic and social success of a country." I have chosen to use SQL language to obtain and filter my data initial dataset as it would make my subsequent data exploration in Pandas faster. Moreover, BigQuery's SQL engine is powerful, which could also reduce the time I would spend exploring the initial data.
 Because of this i am choosing to look at the international data from BigQuery, i am going to use ‘internatinal_education’ because it has all the statistics regarding student population in each country, this dataset has all countries and the population of different school sectors (e.g. Secondary, Primary…). 
 
 
