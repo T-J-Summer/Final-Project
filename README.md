@@ -46,7 +46,7 @@ The schema of the first data set I have used is screenshot below:
 The first dataset, I have from Google BigQuery has a few issues due to excess fields that I do not need for my project. 
 I took a screenshot from the bottom of my table and highlighted some of the fields that i do not need that also are affecting my data visulisation. For example, the field ‘Low & middle income’will affect visulisation because it will have a much higher value count then an individual country because it is a group.
 
-![Screenshot](Data_cleaning_ss)
+![Screenshot](Data_cleaning_ss.png)
 I plan to fix this problem by dropping the unnecessary fields and consequently making the data easter to read and produce graphs from. In order to do this, I followed a few steps. 
 Firstly I uploaded the dataset to DeepNote in order to apply data cleaning techniques, to do this i used the code 
 ```
