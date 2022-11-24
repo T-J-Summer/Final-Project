@@ -44,7 +44,12 @@ The schema of the first data set I have used is screenshot below:
 #### What are the current issues with my data and how do i plan to solve them?	
 #### What tables do i need to join in order to prove my hypothesis?	
 ## Data visualization	
+
 #### What different charts and graphs will i be using?	
+
+I wanted to use a plethora of different visualisation techniques including world maps with hover-over data, bar charts, line graphs, etc….
+I am going to use both DeepNote and Excel to visualise my data in order to show the skills of both applications, I am going to use the relevant piece of software that is most powerful for the selected data I am analysing. For example when I make a heat map of the world to show the different income categories of each country, I will be using DeepNote with Pandas as it is the easiest way to produce a graph of this detail. When I produce bar or line graphs I will use excel as it is a more powerful software for this usage. 
+
 ## Data Exploration
 #### What does the visulised data show about my chosen topic?	
 ## Review	
