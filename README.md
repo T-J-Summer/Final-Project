@@ -71,6 +71,7 @@ The first option was to import a list of all registered countries from the inter
 The first option is to import a list of all registed countries from the internet then merge this list with the dataset above, this will then remove all of the non-countries from the dataset above.
 
 #### Option 2
+
 The second option is to drop the countries that have no 'income group' or 'region'.
 This in itself can be done in 1 of 2 ways, firstly i can count the number of records that have a nan value in the 'income group' or 'region' fields and drop them.
 
