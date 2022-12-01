@@ -63,7 +63,9 @@ cou_edu.head(1)
 ```
 The line of code above allows me to see all of the column headers with only one data result, with this information I was able to run the unique formula to establish what country names are in this dataset. It was with this code that I was able to establish that there were 26 groups within this data that I need to get rid of.
 
-There is then 1 of 2 options, The first option is to import a list of all registed countries from the internet then merge this list with the dataset above, this will then remove all of the non-countries from the dataset above.
+Then I had two options.
+
+The first option was to import a list of all registered countries from the internet then merge this list with the dataset above in such way that it would remove all of the non-countries from the dataset.
 
 #### Option 1
 The first option is to import a list of all registed countries from the internet then merge this list with the dataset above, this will then remove all of the non-countries from the dataset above.
