@@ -61,11 +61,24 @@ once i had the data uploaded i entered code to find all of the different names w
 ```
 cou_edu.head(1)
 ```
-The line of code above allows me to see all of the collum headers with only 1 data result, with this information i am able to run the unique formula to establish what country names are in this dataset
-```
-cou_edu['country_name'].unique()
-``` 
-I can then take this and see the list of all the different countries that there are values for, this will enable me to see whether the list only consists of countries and not collectives like highlighted in the image above.
+The line of code above allows me to see all of the column headers with only one data result, with this information I was able to run the unique formula to establish what country names are in this dataset. It was with this code that I was able to establish that there were 26 groups within this data that I need to get rid of.
+
+Then I had two options.
+
+The first option was to import a list of all registered countries from the internet then merge this list with the dataset above in such way that it would remove all of the non-countries from the dataset.
+
+#### Option 1
+The first option is to import a list of all registed countries from the internet then merge this list with the dataset above, this will then remove all of the non-countries from the dataset above.
+
+#### Option 2
+
+The second option is to drop the countries that have no 'income group' or 'region'.
+This in itself can be done in 1 of 2 ways, firstly i can count the number of records that have a nan value in the 'income group' or 'region' fields and drop them.
+
+Or becuase i know that there 26 records that i dont need i can drop the first 26 results from the dataset.
+
+#### My choisen option
+I am going to use Option 1 becuse it is the most accurate way to update the dataset with the corect list of countries as it will update everytime the machine is re-run, it will also help when diffrent datasets are run against it.
 
 #### What tables do i need to join in order to prove my hypothesis?	
 ## Data visualization	
