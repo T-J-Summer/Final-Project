@@ -1,7 +1,9 @@
-# My Final Project
-This Is My final project, for the Uni 12 week Bootcamp.
+# My Final Project for NCH
 
-[My Deepnote link](https://deepnote.com/workspace/t-j-summer-378b-a69dcfb9-9ce8-41e5-8992-039412d23981/project/Untitled-project-03543aaf-62db-4071-94c7-8ba42077a5ae/%2FFinal%20Project.ipynb)
+This Is My final project, for the Uni 12 week Bootcamp. I will be looking at wheather education is impacted by the economic situation of a country. I did all of my data sourcing from Google BigQuery, and analysed the data in DeepNote and Google BigQuery.
+
+[Google BigQuery](https://console.cloud.google.com/bigquery)
+[My Deepnote](https://deepnote.com/workspace/t-j-summer-378b-a69dcfb9-9ce8-41e5-8992-039412d23981/project/Untitled-project-03543aaf-62db-4071-94c7-8ba42077a5ae/%2FFinal%20Project.ipynb)
 
 ## Table of contents
 - [Introduction](#Introduction)
@@ -14,6 +16,8 @@ This Is My final project, for the Uni 12 week Bootcamp.
 
 ---
 ## Introduction
+
+In this project i am going to be looking at multiple datasets from the World Bank, in order to answer my question of does a economic situation of a country affect their rate of education.
 
 #### What are the project requirements?
 
